@@ -1,0 +1,32 @@
+apple
+banana
+bean
+bitter_gourd
+bottle_gourd
+bread
+brinjal
+broccoli
+cabbage
+capsicum
+carrot
+cauliflower
+chicken
+coca-cola
+cucumber
+egg
+eggplant
+fried chicken
+horse meat
+meat
+mushroom
+orange
+papaya
+pepsi
+pork
+potato
+pumpkin
+radish
+rice
+stir-fried kale
+fried tofu
+tomato
